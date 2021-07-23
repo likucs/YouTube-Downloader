@@ -1,4 +1,4 @@
-<h2 align="center">A YouTube downloading website using Nodejs.</h2>
+<h2 align="center">A YouTube downloading website using Nodejs. By liku cs</h2>
 
 <h1 align="center">😃 YouTube DL 😃</h1>
 
@@ -11,3 +11,6 @@
 <h2 align="center"> DEPLOY : </h2>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/)
+
+# Credit 
+<h1 Liku Cs h1>
